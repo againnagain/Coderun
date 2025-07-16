@@ -1,3 +1,9 @@
+'''
+562. 1984
+Difficulty: Easy
+'''
+
+
 n, m = map(int, input().split())
 
 stop_words = [input() for word in range(n)]

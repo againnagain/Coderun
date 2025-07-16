@@ -1,3 +1,8 @@
+'''
+570. Лента рекоммендаций
+Difficulty: Easy
+'''
+
 p, n, k = map(int, input().split())
 
 recommendations = [input() for _ in range(p)]

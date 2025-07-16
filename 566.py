@@ -1,3 +1,8 @@
+'''
+566. Пушистики
+Difficulty: Easy
+'''
+
 N, t = map(int, input().split())
 
 cards = list(map(int, input().split()))

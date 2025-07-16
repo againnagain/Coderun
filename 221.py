@@ -1,3 +1,9 @@
+'''
+221. Линейно разделимая выборка
+Difficulty: Easy
+'''
+
+
 import math
 
 EPOCHS = 10
