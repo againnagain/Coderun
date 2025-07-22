@@ -1,9 +1,9 @@
-import sys
-
 '''
 137. Минимальный прямоугольник
 Difficulty: Easy
 '''
+
+import sys
 
 leftBottom = [sys.maxsize, sys.maxsize]
 rightTop = [-sys.maxsize, -sys.maxsize]
